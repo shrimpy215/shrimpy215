@@ -2,7 +2,7 @@
 
 Cybersecurity and GRC professional building hands-on cloud architecture.
 
-I spent [N] years assessing cloud environments — risk assessments, incident response
+I have spent 10+ years assessing clients' on-prem and cloud environments — risk assessments, incident response
 planning, BCDR, SOC 2 and HITRUST audits. This portfolio is me building the
 architectures I used to evaluate, so I can argue about them from both sides.
 
@@ -33,4 +33,4 @@ afterwards.
 
 **Tools** — Terraform · AWS · Python · GitHub Actions · Checkov
 
-[LinkedIn](your-url) · [email](mailto:rchartsfield@gmail.com)
+[LinkedIn](www.linkedin.com/in/ryan-hartsfield-79833a208) · [email](mailto:rchartsfield@gmail.com)
